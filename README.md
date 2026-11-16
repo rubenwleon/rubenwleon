@@ -1,27 +1,40 @@
-<h1 align="center">Hi, I'm Ruben Leon 👋</h1>
+<h1 align="center">Ruben Leon</h1>
 
 <p align="center">
-  <b>PhD student in Computer Vision</b><br>
+  <b>PhD Researcher in Computer Vision & Mathematical Image Segmentation</b><br>
   School of Data Science · Lingnan University · Hong Kong
 </p>
 
 <p align="center">
-  <a href="https://rubenwleon.net"><img src="https://img.shields.io/badge/Website-rubenwleon.net-0A66C2?style=flat-square&logo=hugo&logoColor=white" alt="Website"></a>
-  <a href="mailto:ruben.wleon@proton.me"><img src="https://img.shields.io/badge/Email-ruben.wleon%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
+  <a href="https://ruben.wleon.net">
+    <img src="./assets/website-badge.svg" alt="ruben.wleon.net">
+  </a>
+  <a href="mailto:ruben@wleon.net">
+    <img src="./assets/email-badge.svg" alt="ruben@wleon.net">
+  </a>
 </p>
 
 ---
 
-### 🔬 Research
+### About Me
 
-I'm a PhD student in the **Division of Industrial Data Science** at the School of Data Science, **Lingnan University**, Hong Kong.
+I am a PhD student in the Division of Industrial Data Science at Lingnan University, Hong Kong.
 
-My research focuses on the **mathematical formalisation of image segmentation**: building rigorous foundations for how an image is divided into meaningful regions.
+My research focuses on the **mathematical foundations of image segmentation**, particularly the relationship between classical variational approaches and modern deep learning methods.
 
-### 📄 Publications
+I am interested in developing mathematical formulations that combine the theoretical rigour of energy-based models with the expressive power of learned image representations.
 
-Coming soon. Check [rubenwleon.net](https://rubenwleon.net) for updates.
+### Research Direction
 
-### 🤝 Get in touch
+Classical segmentation methods offer explicit mathematical structures and well-established variational theories. Modern deep learning approaches achieve remarkable practical performance but often lack comparable mathematical characterisations.
 
-I'm happy to discuss research or possible collaborations. The easiest way to reach me is by [email](mailto:ruben.wleon@proton.me).
+My research aims to bridge these approaches by incorporating learned features into variational models, combining mathematical interpretability with modern representation learning.
+
+### Research Interests
+
+- Mathematical image segmentation
+- Variational methods and energy minimisation
+- Mumford–Shah functional
+- Computer vision and deep learning
+- Foundation models for image segmentation
+- Mathematical modelling of learned representations
